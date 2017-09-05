@@ -22,15 +22,15 @@ This is a template to follow for every solution in any language.
 ----------------------------------------------------------------
 Folder Structure:
 Chapter #
-* |--- Q1
-       * |--- Solution 
+- |--- Q1
+  -    |--- Solution 
                |--- <Languague>
 	                |--- <File Name>
 	       |--- <Languague>
 	                |--- <File Name>
        |--- Notes
-* |--- Q2
-       * |--- Solution #
+- |--- Q2
+  -    |--- Solution #
                |--- <Languague>
 	                |--- <File Name>
 	       |--- <Languague>
