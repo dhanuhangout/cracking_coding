@@ -22,8 +22,8 @@ This is a template to follow for every solution in any language.
 ----------------------------------------------------------------
 Folder Structure:
 Chapter #
-  |--- Q1
-       |--- Solution #
+##|--- Q1
+######|--- Solution 
                |--- <Languague>
 	                |--- <File Name>
 	       |--- <Languague>
