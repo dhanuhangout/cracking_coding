@@ -9,6 +9,8 @@ We recommend every repository include a README, LICENSE, and .gitignore.
 
 echo "# cracking_coding" >> README.md
 git init
+git config --global user.name "Your Name"
+git config --global user.email you@example.com
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/dhanuhangout/cracking_coding.git
