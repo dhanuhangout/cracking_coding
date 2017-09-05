@@ -24,11 +24,11 @@ Folder Structure:
 Chapter #
 - |--- Q1
   -    |--- Solution 
-               |--- <Languague>
-	                |--- <File Name>
-	       |--- <Languague>
-	                |--- <File Name>
-       |--- Notes
+    -           |--- <Languague>
+    -                   |--- <File Name>
+    -           |--- <Languague>
+    -                   |--- <File Name>
+    -  |--- Notes
 - |--- Q2
   -    |--- Solution #
                |--- <Languague>
