@@ -19,7 +19,7 @@ This is a template to follow for every solution in any language.
 5.2 BigO Notation for all solutions.
 ----------------------------------------------------------------
 
-
+----------------------------------------------------------------
 Folder Structure:
 Chapter #
   |--- Q1
@@ -53,5 +53,5 @@ Chapter #
 	                |--- <File Name>
        |--- Notes
 
-
+----------------------------------------------------------------
 
