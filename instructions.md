@@ -30,28 +30,28 @@ Chapter #
          -  |--- File Name
   -  |--- Notes
 - |--- Q2
-  -    |--- Solution #
-               |--- <Languague>
-	                |--- <File Name>
-	       |--- <Languague>
-	                |--- <File Name>
-       |--- Notes
+  -  |--- Solution 
+      -  |--- Languague
+         -  |--- File Name
+      -  |--- Languague
+         -  |--- File Name
+  -  |--- Notes
 
 Chapter #
-* |--- Q1
-       |--- Solution #
-               |--- <Languague>
-	                |--- <File Name>
-	       |--- <Languague>
-	                |--- <File Name>
-       |--- Notes
-* |--- Q2
-       |--- Solution #
-               |--- <Languague>
-	                |--- <File Name>
-	       |--- <Languague>
-	                |--- <File Name>
-       |--- Notes
+- |--- Q1
+  -  |--- Solution 
+      -  |--- Languague
+         -  |--- File Name
+      -  |--- Languague
+         -  |--- File Name
+  -  |--- Notes
+- |--- Q2
+  -  |--- Solution 
+      -  |--- Languague
+         -  |--- File Name
+      -  |--- Languague
+         -  |--- File Name
+  -  |--- Notes
 
 ----------------------------------------------------------------
 
