@@ -23,33 +23,33 @@ This is a template to follow for every solution in any language.
 Folder Structure:
 Chapter #
 - |--- Q1
-  -  |--- Solution 
-      -  |--- Languague
+  -  |--- Solution #
+      -  |--- Languague 1
          -  |--- File Name
-      -  |--- Languague
+      -  |--- Languague 2
          -  |--- File Name
   -  |--- Notes
 - |--- Q2
-  -  |--- Solution 
-      -  |--- Languague
+  -  |--- Solution #
+      -  |--- Languague 1
          -  |--- File Name
-      -  |--- Languague
+      -  |--- Languague 2
          -  |--- File Name
   -  |--- Notes
 
 Chapter #
 - |--- Q1
-  -  |--- Solution 
-      -  |--- Languague
+  -  |--- Solution #
+      -  |--- Languague 1
          -  |--- File Name
-      -  |--- Languague
+      -  |--- Languague 2
          -  |--- File Name
   -  |--- Notes
 - |--- Q2
-  -  |--- Solution 
-      -  |--- Languague
+  -  |--- Solution #
+      -  |--- Languague 1
          -  |--- File Name
-      -  |--- Languague
+      -  |--- Languague 2
          -  |--- File Name
   -  |--- Notes
 
